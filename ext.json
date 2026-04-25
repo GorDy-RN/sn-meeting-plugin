@@ -1,0 +1,11 @@
+{
+  "identifier": "com.martin.meeting-notes",
+  "name": "Notes de rencontre",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0.0",
+  "description": "Éditeur structuré pour notes de rencontre : présences, ordre du jour, notes et tâches assignables aux participants.",
+  "url": "https://gordy-rn.github.io/sn-meeting-plugin/index.html",
+  "download_url": "https://github.com/GorDy-RN/sn-meeting-plugin/archive/refs/heads/main.zip",
+  "latest_url": "https://gordy-rn.github.io/sn-meeting-plugin/ext.json"
+}
