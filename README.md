@@ -92,3 +92,4 @@ Si le plugin devient central à ton workflow, voici ce qui vaudrait la peine d'a
 - Lien d'une rencontre à la suivante (suivi d'action items récurrents)
 - Commande `/` pour insérer rapidement un participant mentionné dans une note
 - Bilingue : toggle FR / EN pour les libellés d'interface
+- 
