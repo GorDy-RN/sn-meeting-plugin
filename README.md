@@ -72,7 +72,7 @@ Structure :
   "date": "2026-04-21",
   "participantsRaw": "Alice\nBob\nCarole",
   "participants": ["Alice", "Bob", "Carole"],
-  "agenda": "1. Revue CFADS\n2. Sizing dette",
+  "agenda": "1. Revue rencontre\n2. Discussion financement",
   "notes": [{"id": "ab12", "text": "P99 DSCR trop serré", "assignee": "Bob"}],
   "tasks": [{"id": "cd34", "text": "Refaire sculpting", "assignee": "Alice", "due": "2026-04-28", "done": false}]
 }
